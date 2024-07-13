@@ -1,4 +1,4 @@
-This repository is created to code advanced versions of sorting algorithms in C# Programming Language.
+This repository is created to code advanced versions of 2 sorting algorithms in C# Programming Language.
 
 1. First Project shows 'Bubble Sort'
 *Bubble Sort Algorithm Overview*
